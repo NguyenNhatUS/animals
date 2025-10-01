@@ -3,3 +3,5 @@ Cat
 Bird
 Fish
 Hamster
+Rusty
+Monty
